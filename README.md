@@ -1,7 +1,7 @@
 # Olá, Eu sou João Victor.
 
 - 👨🏻‍💻 Em constante aprendizado
-- Iniciei meus estudos recentemente em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre. Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo de tecnologia. As tecnologias com as quais estou familiarizado são HTML5, CSS3 e Javascript. 
+- Iniciei meus estudos recentemente em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre. Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja. Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
 
  
 <div align="center">
