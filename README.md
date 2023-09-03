@@ -1,7 +1,8 @@
 # Olá, Eu sou João Victor.
 
 - 👨🏻‍💻 Em constante aprendizado
-- Iniciei meus estudos recentemente em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre. Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja. Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
+- Iniciei meus estudos em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre. Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja. Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
+Aqui existe toda a minha trajetória de aprendizado em programação com ênfase em backend.
 
  
 <div align="center">
