@@ -1,4 +1,4 @@
-# Olá!! Eu sou João Victor.
+# Olá!! Eu sou João Victor!.
 
 - 👨🏻‍💻 Em constante aprendizado
 - ☕ Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
@@ -16,7 +16,7 @@ Aqui existe toda a minha trajetória de aprendizado em programação com ênfase
   
 
   <img align="center" alt="joao-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="joao-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   
            
           
