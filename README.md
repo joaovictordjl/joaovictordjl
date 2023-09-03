@@ -1,7 +1,9 @@
-# Olá, Eu sou João Victor.
+# Olá!! Eu sou João Victor.
 
 - 👨🏻‍💻 Em constante aprendizado
-- Iniciei meus estudos em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre. Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja. Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
+- ☕ Atualmente estudo com foco a linguagem JAVA para desenvolvimento backend.
+- 📚 Iniciei meus estudos em Análise e Desenvolvimento de Sistemas. Estou cursando o 3º Semestre.
+- 💡 Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja.
 Aqui existe toda a minha trajetória de aprendizado em programação com ênfase em backend.
 
  
@@ -11,9 +13,15 @@ Aqui existe toda a minha trajetória de aprendizado em programação com ênfase
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordjl&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="joao-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="joao-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+           
+          
+  
+  
   
  </div>
  
