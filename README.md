@@ -12,7 +12,7 @@ Aqui existe toda a minha trajetória de aprendizado em programação.
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5511950549312)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-9087b9234/)
 
-![joaovictordjl GitHub stats](https://github-stats.vercel.app/api?username=joaovictordjl&show_icons=true&theme=dracula)
+![joaovictordjl GitHub stats](https://github-stats.vercel.app/api?username=joaovictordjl&show_icons=true&theme=highcontrast)
 
 <h2>Tecnologias</h2>
 
