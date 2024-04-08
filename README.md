@@ -15,7 +15,8 @@ Aqui existe toda a minha trajetória de aprendizado em programação com ênfase
  <div style="display: inline_block"><br>
   
 
-  <img align="center" alt="joao-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
   
   
            
