@@ -1,42 +1,27 @@
-# Olá!! Eu sou João Victor!.
+# Olá!! Eu sou João Victor 👋
 
 - 👨🏻‍💻 Em constante aprendizado
-- ☕ Atualmente estudo com foco o desenvolvimento backend com Javascript.
+-  Atualmente estudo com foco o desenvolvimento backend com Javascript.
 - 📚 Iniciei meus estudos em Análise e Desenvolvimento de Sistemas.
-- 💡 Sou amante de tecnologia desde pequeno, possuo uma grande facilidade em me desenvolver em qualquer tipo que seja.
-Aqui existe toda a minha trajetória de aprendizado em programação com ênfase em backend.
+  
+Aqui existe toda a minha trajetória de aprendizado em programação.
 
+<h1>Contatos</h1>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorjhon779@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5511950549312)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-9087b9234/)
+
+![joaovictordjl GitHub stats](https://github-stats.vercel.app/api?username=joaovictordjl&show_icons=true&theme=dracula)
+
+<h2>Tecnologias</h2>
+
+<div style="display: inline_block"> <br/>
+ <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  
-<div align="center">
-  <a href="https://github.com/joaovictordjl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictordjl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordjl&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <div style="display: inline_block"><br>
-  
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-  
-  
-           
-          
-  
-  
-  
- </div>
- 
-
-  ##
-  
-  <div>
-      <a href="https://instagram.com/juuuaozin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-9087b9234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
-  </div>
-
-<!---
-joaovictordjl/joaovictordjl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
