@@ -1,7 +1,7 @@
 # Olá!! Eu sou João Victor 👋
 
 - 👨🏻‍💻 Em constante aprendizado
--  Atualmente estudo com foco o desenvolvimento backend com Javascript.
+-  Atualmente estudo com foco no desenvolvimento backend.
 - 📚 Iniciei meus estudos em Análise e Desenvolvimento de Sistemas.
   
 Aqui existe toda a minha trajetória de aprendizado em programação.
