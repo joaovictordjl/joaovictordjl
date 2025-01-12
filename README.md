@@ -2,7 +2,6 @@
 
 - 👨🏻‍💻 Em constante aprendizado
 -  Atualmente estudo com foco no desenvolvimento backend.
-- 📚 Iniciei meus estudos em Análise e Desenvolvimento de Sistemas.
   
 Aqui existe toda a minha trajetória de aprendizado em programação.
 
@@ -14,7 +13,7 @@ Aqui existe toda a minha trajetória de aprendizado em programação.
 
 ![joaovictordjl GitHub stats](https://github-stats.vercel.app/api?username=joaovictordjl&show_icons=true&theme=highcontrast)
 
-<h2>Tecnologias</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordjl&exclude_repo=github-readme-stats,joaovictordjl.github.io)
+
+
 
