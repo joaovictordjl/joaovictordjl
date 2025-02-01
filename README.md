@@ -1,6 +1,4 @@
 # Desenvolvedor de Software 👋
-
--  Javascript | Java | Spring.
   
 - Aqui existe toda a minha trajetória de aprendizado em programação.
 
