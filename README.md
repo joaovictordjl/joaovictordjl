@@ -1,12 +1,11 @@
 # Olá, sou João Victor ! 👋
   
-- Aqui existe toda a minha trajetória de aprendizado em programação.
+- Aqui existe toda a minha trajetória de aprendizado em programação com foco no desenvolvimento back-end.
 
-## Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <h1>Tecnologias: Golang</h1>
 </div>
+
 
 ## GitHub Stats ⚡
 <div>
