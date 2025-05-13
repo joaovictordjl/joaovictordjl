@@ -3,7 +3,7 @@
 - Aqui existe toda a minha trajetória de aprendizado em programação com foco no desenvolvimento back-end.
 
 <div>
-  <h1>Tecnologias: Golang</h1>
+  <h1>Tecnologias: C#</h1>
 </div>
 
 
